@@ -1,0 +1,37 @@
+{
+  "name": "one-tap",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.8.0",
+    "axios": "^0.21.4",
+    "chart.js": "^3.5.1",
+    "html-react-parser": "^1.2.9",
+    "jwt-decode": "^3.1.2",
+    "jwt-encode": "^1.0.1",
+    "mongoose": "^6.0.5",
+    "multer": "^1.4.3",
+    "next": "11.1.0",
+    "next-connect": "^0.10.2",
+    "node-self": "^1.0.0-c",
+    "qr-code-styling": "^1.6.0-rc.1",
+    "react": "17.0.2",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.15.3",
+    "react-icons": "^4.2.0",
+    "react-toastify": "^8.0.2",
+    "self": "^1.0.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0"
+  }
+}

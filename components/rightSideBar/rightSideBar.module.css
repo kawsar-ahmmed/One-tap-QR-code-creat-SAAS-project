@@ -1,0 +1,15 @@
+.bg{
+    background-color:#E8F0FF;
+    color: #004CD4;
+    border: none;
+}
+.input{
+    border: none;
+    color: #004CD4;
+    background-color:#E8F0FF;
+}
+.text{
+    color: #063148;
+    font-size: 18px;
+    line-height: 12px;
+}

@@ -1,0 +1,21 @@
+
+/* ======= */
+.iconColor{
+  color: #004CD4;
+}
+.card{
+  border: 1px solid #E6E6E6;
+}
+.card:hover{
+  border: 1px solid #004CD480;
+}
+.card > button{
+  background-color: yellow !important
+}
+.btn{
+  background-color: white;
+  border: 1px solid #E6E6E6;
+}
+.btn:hover{
+  border: 1px solid #004CD4;
+}

@@ -1,0 +1,19 @@
+
+/* ===== */
+.qrInput {
+  border: none;
+  background-color: #e8f0ff;
+  color: #004cd4;
+  width: 100%;
+  padding: 7px 15px;
+  position: relative;
+}
+.title {
+  background-color: #004cd4;
+  color: white;
+  border-radius: 5px;
+}
+.temp {
+  background-color: #e8f0ff;
+  color: #004cd4;
+}

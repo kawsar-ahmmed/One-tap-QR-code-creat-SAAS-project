@@ -1,0 +1,14 @@
+.card {
+  background-color: white;
+  height: 330px;
+}
+.cardBottom {
+  background-color: white;
+  height: 330px;
+}
+.btn {
+  border: none;
+  background-color: #004cd4;
+  color: white;
+  border-radius: 5px;
+}

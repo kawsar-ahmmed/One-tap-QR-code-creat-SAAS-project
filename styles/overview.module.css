@@ -1,0 +1,9 @@
+.card {
+  background-color: white;
+}
+.cardText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
